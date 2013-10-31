@@ -1,0 +1,4 @@
+.idea
+installer
+config/autoload/local.php
+config/autoload/*.local.php
