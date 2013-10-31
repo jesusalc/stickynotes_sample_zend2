@@ -1,16 +1,5 @@
 <?php
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- * Description of StickyNote
- *
- * @author Arian Khosravi <arian@bigemployee.com>, <@ArianKhosravi>
- */
-// module/StickyNotes/src/StickyNotes/Model/Entity/StickyNotes.php
+// module/StickyNotes/src/StickyNotes/Model/Entity/StickyNote.php
 
 namespace StickyNotes\Model\Entity;
 
@@ -81,5 +70,3 @@ class StickyNote {
     }
 
 }
-
-?>

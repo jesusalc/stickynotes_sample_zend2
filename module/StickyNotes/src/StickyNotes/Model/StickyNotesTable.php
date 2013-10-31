@@ -1,10 +1,5 @@
 <?php
-
-/**
- * Description of StickyNotesTable
- *
- * @author Arian Khosravi <arian@bigemployee.com>, <@ArianKhosravi>
- */
+#loads the database table from our database and binds it with our StickyNotes object.
 // module/StickyNotes/src/StickyNotes/Model/StickyNotesTable.php
 
 namespace StickyNotes\Model;

@@ -24,7 +24,7 @@ echo "Create the following structure
         /config
         /src 
             /StickyNotes 
-            /Controller 
+              /Controller 
               /Form 
               /Model 
         /view 
@@ -38,11 +38,11 @@ mkdir('../module/StickyNotes/config');
 mkdir('../module/StickyNotes/src');
 mkdir('../module/StickyNotes/src/StickyNotes');
 mkdir('../module/StickyNotes/src/Controller');
-mkdir('../module/StickyNotes/src/Controller/Form ');
-mkdir('../module/StickyNotes/src/Controller/Model ');
+mkdir('../module/StickyNotes/src/Controller/Form');
+mkdir('../module/StickyNotes/src/Controller/Model');
 mkdir('../module/StickyNotes/view');
-mkdir('../module/StickyNotes/view/sticky-notes ');
-mkdir('../module/StickyNotes/view/sticky-notes/sticky-notes ');
+mkdir('../module/StickyNotes/view/sticky-notes');
+mkdir('../module/StickyNotes/view/sticky-notes/sticky-notes');
 
                     
         
